@@ -5,7 +5,7 @@ Here are a few things I built. The tools are free and open source, so feel free 
 
 ## Products
 
-- **[Hebrew Movie Search](https://hebrew-movie-search.vercel.app)** (מה רואים היום) Find something to watch in Israel. Search movies and shows in Hebrew or English, keep favorites without an account, and pick something together in a shared room.
+- **[What's Playing Today?](https://hebrew-movie-search.vercel.app/?lang=en)** Find something to watch in Israel. Search movies and shows in Hebrew or English, keep favorites without an account, and pick something together in a shared room.
 - **[On the Way](https://on-the-way-nine.vercel.app)** A driver and a passenger compare pickup spots along the driving route, within the detour the driver is willing to make.
 - **[Zmunah](https://shabat-posts.vercel.app)** Personal Shabbat and Omer posters in Hebrew, with candle-lighting times for Israel.
 
