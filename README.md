@@ -19,7 +19,7 @@ Here are a few things I built. The tools are free and open source, so feel free 
 
 **[NRedisStack](https://github.com/redis/NRedisStack)**, the official .NET client for Redis. I made its first commit in 2022 and I'm its top contributor, with 100 merged PRs.
 
-[![NuGet downloads](https://img.shields.io/nuget/dt/NRedisStack?label=NuGet%20downloads&color=blue)](https://www.nuget.org/packages/NRedisStack) [![GitHub stars](https://img.shields.io/github/stars/redis/NRedisStack?label=GitHub%20stars&color=blue)](https://github.com/redis/NRedisStack)
+[![NuGet downloads](https://img.shields.io/nuget/dt/NRedisStack?label=NuGet%20downloads&color=blue&style=flat)](https://www.nuget.org/packages/NRedisStack) [![GitHub stars](https://img.shields.io/github/stars/redis/NRedisStack?label=GitHub%20stars&color=blue&style=flat&logo=github)](https://github.com/redis/NRedisStack)
 
 I also contributed to [redis-py](https://github.com/redis/redis-py), [node-redis](https://github.com/redis/node-redis), [jedis](https://github.com/redis/jedis), [StackExchange.Redis](https://github.com/seredis/StackExchange.Redis), [predis](https://github.com/predis/predis), [redis-om-dotnet](https://github.com/redis/redis-om-dotnet), [RediSearch](https://github.com/RediSearch/RediSearch) and [RedisBloom](https://github.com/RedisBloom/RedisBloom).
 
