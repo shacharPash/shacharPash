@@ -13,7 +13,6 @@ Here are a few things I built. The tools are free and open source, so feel free 
 
 - **[speak-to-paste](https://github.com/shacharPash/speak-to-paste)**<br>Press a shortcut, speak, press it again: your words are pasted wherever your cursor is, in any Mac app. Hebrew-first, fully local, one-command install.
 - **[CallRec](https://github.com/shacharPash/callrec)**<br>Records your calls on your Mac and transcribes them, in Hebrew or English. Starts by itself when a Zoom, Meet, Slack or Teams call starts. Fully local, one-command install.
-- **[pr-review-assistant](https://github.com/shacharPash/pr-review-assistant)**<br>Review GitHub PRs locally: a real diff view, commit-range comparison, drafted inline comments and optional AI explanations, submitted from your own account.
 
 ## 🌱 Open source
 
