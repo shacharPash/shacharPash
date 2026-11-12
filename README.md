@@ -21,9 +21,9 @@ Here are a few things I built. The tools are free and open source, so feel free 
 
 I also contributed to [redis-py](https://github.com/redis/redis-py), [node-redis](https://github.com/redis/node-redis), [jedis](https://github.com/redis/jedis), [StackExchange.Redis](https://github.com/seredis/StackExchange.Redis), [predis](https://github.com/predis/predis), [redis-om-dotnet](https://github.com/redis/redis-om-dotnet), [RediSearch](https://github.com/RediSearch/RediSearch) and [RedisBloom](https://github.com/RedisBloom/RedisBloom).
 
-## Also building
+## How I work
 
-**Alter**, my personal AI chief of staff: a team of Claude Code agents that drafts my replies, handles PR review comments, watches CI and triages production errors. One hard rule: nothing is sent without my approval.
+I build and run my own team of AI agents. Each one has a job: drafting my messages, handling PR review comments, watching CI, keeping my work log. They do the legwork, I make the calls, and nothing goes out without my approval. Most of my tools started as fixes for my own workday.
 
 ---
 
