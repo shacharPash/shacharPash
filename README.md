@@ -16,11 +16,11 @@ Here are a few things I built. The tools are free and open source, so feel free 
 
 ## 🌱 Open source
 
-**[NRedisStack](https://github.com/redis/NRedisStack)**, the official .NET client for Redis. I made its first commit in 2022 and I'm its top contributor, with 100 merged PRs.
+**[NRedisStack](https://github.com/redis/NRedisStack)**, the official .NET client for Redis. I made its first commit in 2022 and I'm its top contributor, with [100 merged PRs](https://github.com/redis/NRedisStack/pulls?q=is%3Apr+is%3Amerged+author%3AshacharPash).
 
 [![NuGet downloads](https://img.shields.io/nuget/dt/NRedisStack?label=NuGet%20downloads&color=blue&style=flat)](https://www.nuget.org/packages/NRedisStack) [![GitHub stars](https://img.shields.io/github/stars/redis/NRedisStack?label=GitHub%20stars&color=blue&style=flat&logo=github)](https://github.com/redis/NRedisStack)
 
-I also contributed to [redis-py](https://github.com/redis/redis-py), [node-redis](https://github.com/redis/node-redis), [jedis](https://github.com/redis/jedis), [StackExchange.Redis](https://github.com/seredis/StackExchange.Redis), [predis](https://github.com/predis/predis), [redis-om-dotnet](https://github.com/redis/redis-om-dotnet), [RediSearch](https://github.com/RediSearch/RediSearch) and [RedisBloom](https://github.com/RedisBloom/RedisBloom).
+I also have merged PRs in [redis-py](https://github.com/redis/redis-py/pulls?q=is%3Apr+is%3Amerged+author%3AshacharPash), [node-redis](https://github.com/redis/node-redis/pulls?q=is%3Apr+is%3Amerged+author%3AshacharPash), [jedis](https://github.com/redis/jedis/pulls?q=is%3Apr+is%3Amerged+author%3AshacharPash), [StackExchange.Redis](https://github.com/seredis/StackExchange.Redis/pulls?q=is%3Apr+is%3Amerged+author%3AshacharPash), [predis](https://github.com/predis/predis/pulls?q=is%3Apr+is%3Amerged+author%3AshacharPash), [redis-om-dotnet](https://github.com/redis/redis-om-dotnet/pulls?q=is%3Apr+is%3Amerged+author%3AshacharPash), [RediSearch](https://github.com/RediSearch/RediSearch/pulls?q=is%3Apr+is%3Amerged+author%3AshacharPash) and [RedisBloom](https://github.com/RedisBloom/RedisBloom/pulls?q=is%3Apr+is%3Amerged+author%3AshacharPash).
 
 ## 🤖 How I work
 
